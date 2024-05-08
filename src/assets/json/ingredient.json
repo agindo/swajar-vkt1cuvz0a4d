@@ -19,7 +19,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-1"
             }
         },
         {
@@ -41,7 +41,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-2"
             }
         },
         {
@@ -63,7 +63,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-3"
             }
         },
         {
@@ -85,7 +85,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-3"
             }
         },
         {
@@ -107,7 +107,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-5"
             }
         },
         {
@@ -129,7 +129,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-6"
             }
         },
         {
@@ -151,7 +151,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-7"
             }
         },
         {
@@ -173,7 +173,7 @@
                 "img": null
             },
             "look": {
-                "class": null
+                "class": "text-3xl font-9"
             }
         }
     ]
