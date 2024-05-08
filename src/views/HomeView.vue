@@ -6,7 +6,8 @@
   <!-- Flex container for centering items -->
   <div class="flex h-screen flex-col items-center justify-center">
     <!-- Container for login form -->
-    <div class="max-h-auto mx-auto max-w-xl w-60">
+    <!-- <div class="max-h-auto mx-auto max-w-xl w-60"> -->
+    <div>
       <!-- Login title and description -->
       <div class="mb-4">
         <h1 class="text-xl font-semibold">Welcome back</h1>
