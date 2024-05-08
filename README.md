@@ -1,6 +1,6 @@
 # swajar-vkt1cuvz0a4d
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -17,4 +17,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# swajar-vkt1cuvz0a4d
