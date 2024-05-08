@@ -1,0 +1,180 @@
+{
+    "materi": [
+        {
+            "id": "1",
+            "code": "e8o2oCJA867j",
+            "title": "SWAJAR CPNS",
+            "description": "Swakelola Belajar Calon Pegawai Negeri Sipil",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        },
+        {
+            "id": "2",
+            "code": "6E1I0cL6S5wS",
+            "title": "SWAJAR PPPK",
+            "description": "Swakelola Belajar Pegawai Pemerintah dengan Perjanjian Kerja",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        },
+        {
+            "id": "3",
+            "code": "6gm828vJyBQ5",
+            "title": "SWAJAR MOT",
+            "description": "Swakelola Belajar Management Of Training",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        },
+        {
+            "id": "4",
+            "code": "pFv305R1hD2q",
+            "title": "SWAJAR TOC",
+            "description": "Swakelola Belajar Training Officer Course",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        },
+        {
+            "id": "5",
+            "code": "2HaU62Hmdn5G",
+            "title": "SWAJAR JF",
+            "description": "Swakelola Belajar Teknis Jabatan Fungsional",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        },
+        {
+            "id": "6",
+            "code": "aL784yxLf7G2",
+            "title": "SWAJAR SOSKUL",
+            "description": "Swakelola Belajar Sosial Kultural",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        },
+        {
+            "id": "0",
+            "code": "4YcrF77TxWGH",
+            "title": "Sirela",
+            "description": "Sistem Register Latsar",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        },
+        {
+            "id": "0",
+            "code": "qVGMcn5Y5b6W",
+            "title": "PROFILE",
+            "description": "Peserta Swakelola Belajar",
+            "lesson": [
+                {
+                    "id": 0,
+                    "title": null,
+                    "source": null,
+                    "type": null
+                }
+            ],
+            "identity": {
+                "tag": [],
+                "author": null,
+                "img": null
+            },
+            "look": {
+                "class": null
+            }
+        }
+    ]
+}
