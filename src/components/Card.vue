@@ -1,9 +1,10 @@
 <template>
   <div>
-    <div class="card">
+    <div class="card cursor-pointer" @click="getViews('/F6D2wQo5g6Ka/z1s6QUD8D2Cx/'+data.code)">
       <!-- <p>{{ data }}</p> -->
-      <p class="p-0 m-0" :class="data.look.class">{{ data.title }}</p>
+      <p class="p-0 m-0" :class="data.identity.style">{{ data.title }}</p>
       <p class="raleway-400 p-0 m-0">{{ data.description }}</p>
+      <!-- {{ data.code }} -->
     </div>
   </div>
 </template>
@@ -11,7 +12,14 @@
 export default {
   props: {
     data: Object
-  }
+  },
+  methods: {
+    getViews: function(value){
+			if (this.$route.path !== value) {
+				this.$router.push(value);
+			}
+		}
+  },
 }
 </script>
 <style scoped>
