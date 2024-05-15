@@ -1,8 +1,8 @@
 {
     "materi": [
         {
-            "id": "1",
-            "code": "e8o2oCJA867j",
+            "id": "0",
+            "code": "hPH1L55V2bdn",
             "title": "SWAJAR CPNS",
             "description": "Swakelola Belajar Calon Pegawai Negeri Sipil",
             "lesson": [
@@ -403,7 +403,7 @@
                 "tag": [],
                 "author": null,
                 "img": null,
-                "style": "text-3xl font-3"
+                "style": "text-4xl font-3"
             }
         },
         {
@@ -604,20 +604,31 @@
                 "tag": [],
                 "author": null,
                 "img": null,
-                "style": "text-3xl font-3"
+                "style": "text-4xl font-3"
             }
         },
         {
-            "id": "5",
-            "code": "2HaU62Hmdn5G",
+            "id": "0",
+            "code": "hPH1L55V2bdn",
             "title": "SWAJAR JF",
             "description": "Swakelola Belajar Teknis Jabatan Fungsional",
             "lesson": [
                 {
-                    "id": 0,
-                    "title": null,
-                    "source": null,
-                    "type": null
+                    "id": 1,
+                    "code": "33NOYLXUf8bJ",
+                    "title": "Administrasi Pelatihan",
+                    "description": "Suspendisse sed nisi lacus sed viverra tellus in hac. Non arcu risus quis varius quam quisque id. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Metus dictum at tempor commodo. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Pharetra pharetra massa massa ultricies mi quis hendrerit. Lectus arcu bibendum at varius vel pharetra vel. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Etiam sit amet nisl purus in. Nulla pharetra diam sit amet nisl suscipit adipiscing. Nisl nunc mi ipsum faucibus. Cursus in hac habitasse platea dictumst quisque sagittis purus sit. Condimentum lacinia quis vel eros donec ac odio tempor. Fermentum iaculis eu non diam phasellus vestibulum. Tempor orci eu lobortis elementum nibh tellus. Diam sollicitudin tempor id eu nisl nunc mi. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Nunc vel risus commodo viverra maecenas accumsan lacus. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Amet venenatis urna cursus eget nunc.",
+                    "type": null,
+                    "sublesson": [
+                        {
+                            "id": 1,
+                            "code": "i0bLNKW8KK6n",
+                            "title": "Modul PDF",
+                            "source": "https://drive.google.com/file/d/1fIaKfVWAvCzydLGoqn-J8-oZB2VDeZuZ/preview",
+                            "type": "file url/link",
+                            "point": 1
+                        }
+                    ]
                 }
             ],
             "identity": {
@@ -628,16 +639,27 @@
             }
         },
         {
-            "id": "6",
-            "code": "aL784yxLf7G2",
+            "id": "0",
+            "code": "hPH1L55V2bdn",
             "title": "SWAJAR SOSKUL",
             "description": "Swakelola Belajar Sosial Kultural",
             "lesson": [
                 {
-                    "id": 0,
-                    "title": null,
-                    "source": null,
-                    "type": null
+                    "id": 1,
+                    "code": "33NOYLXUf8bJ",
+                    "title": "Administrasi Pelatihan",
+                    "description": "Suspendisse sed nisi lacus sed viverra tellus in hac. Non arcu risus quis varius quam quisque id. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Metus dictum at tempor commodo. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Pharetra pharetra massa massa ultricies mi quis hendrerit. Lectus arcu bibendum at varius vel pharetra vel. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Etiam sit amet nisl purus in. Nulla pharetra diam sit amet nisl suscipit adipiscing. Nisl nunc mi ipsum faucibus. Cursus in hac habitasse platea dictumst quisque sagittis purus sit. Condimentum lacinia quis vel eros donec ac odio tempor. Fermentum iaculis eu non diam phasellus vestibulum. Tempor orci eu lobortis elementum nibh tellus. Diam sollicitudin tempor id eu nisl nunc mi. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Nunc vel risus commodo viverra maecenas accumsan lacus. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Amet venenatis urna cursus eget nunc.",
+                    "type": null,
+                    "sublesson": [
+                        {
+                            "id": 1,
+                            "code": "i0bLNKW8KK6n",
+                            "title": "Modul PDF",
+                            "source": "https://drive.google.com/file/d/1fIaKfVWAvCzydLGoqn-J8-oZB2VDeZuZ/preview",
+                            "type": "file url/link",
+                            "point": 1
+                        }
+                    ]
                 }
             ],
             "identity": {
@@ -649,7 +671,7 @@
         },
         {
             "id": "0",
-            "code": "4YcrF77TxWGH",
+            "code": "hPH1L55V2bdn",
             "title": "Sirela",
             "description": "Sistem Register Latsar",
             "lesson": [
@@ -669,7 +691,7 @@
         },
         {
             "id": "0",
-            "code": "qVGMcn5Y5b6W",
+            "code": "tP4KJ16Q8wm2",
             "title": "PROFILE",
             "description": "Peserta Swakelola Belajar",
             "lesson": [
@@ -684,7 +706,7 @@
                 "tag": [],
                 "author": null,
                 "img": null,
-                "style": "text-3xl font-9"
+                "style": "text-3xl plus-jakarta-sans-300"
             }
         }
     ]

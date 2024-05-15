@@ -1,10 +1,12 @@
 <template>
   <div>
-    <div class="card cursor-pointer" @click="getViews('/F6D2wQo5g6Ka/z1s6QUD8D2Cx/'+data.code)">
-      <!-- <p>{{ data }}</p> -->
+    <div class="card cursor-pointer" v-if="data.id != 0" @click="getViews('/F6D2wQo5g6Ka/z1s6QUD8D2Cx/'+data.code)">
       <p class="p-0 m-0" :class="data.identity.style">{{ data.title }}</p>
       <p class="raleway-400 p-0 m-0">{{ data.description }}</p>
-      <!-- {{ data.code }} -->
+    </div>
+    <div class="card cursor-pointer" v-if="data.id == 0" @click="getViews('/'+data.code)">
+      <p class="p-0 m-0" :class="data.identity.style">{{ data.title }}</p>
+      <p class="raleway-400 p-0 m-0">{{ data.description }}</p>
     </div>
   </div>
 </template>

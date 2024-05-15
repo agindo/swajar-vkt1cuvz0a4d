@@ -8,6 +8,7 @@ import HomeSirelaView from '../views/sirela/HomeView.vue'
 import HomeProfileView from '../views/profile/HomeView.vue'
 
 import RegisterView from '../views/RegisterView.vue'
+import ComingSoonView from '../views/ComingSoonView.vue'
 
 Vue.use(VueRouter)
 
@@ -41,6 +42,11 @@ const routes = [
     path: '/PBcw3g0kC0xt',
     name: 'RegisterView',
     component: RegisterView
+  },
+  {
+    path: '/hPH1L55V2bdn',
+    name: 'ComingSoonView',
+    component: ComingSoonView
   }
 ]
 
